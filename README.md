@@ -1,6 +1,6 @@
 # Object Oriented PHP Tutorial
 
-![Python](https://github.com/d3vkk/oop-php-tutorial/blob/master/php-elephant.png)
+![PHP Elephant](https://github.com/d3vkk/oop-php-tutorial/blob/master/php-elephant.png)
 
 Object Oriented PHP Tutorial from Derek Banas. With short, useful comments.
 
