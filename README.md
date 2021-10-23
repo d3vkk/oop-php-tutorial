@@ -6,6 +6,18 @@ Object Oriented PHP Tutorial from Derek Banas. With short, useful comments.
 
 [Youtube Video](https://www.youtube.com/watch?v=5YaF8xTmxs4)
 
+## Contribution
+
+To contribute, [use this guide](https://github.com/d3vkk/open-source/blob/master/CONTRIBUTING.md)
+
+## Usage
+
+Star this repo for future reference
+
+Press `.` to open in browser-based Vscode
+
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/d3vkk/oop-php-tutorial)
+
 Fork or clone this repo
 ```
 git clone https://github.com/d3vkk/oop-php-tutorial.git
